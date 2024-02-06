@@ -1,0 +1,18 @@
+Data:
+	- Fuente
+	- Nombre
+	- Fecha_Creacion
+	- Ubicacion
+
+https://mercadolibre.eightfold.ai/careers/search?pid=1390034&domain=mercadolibre.com&sort_by=relevance
+https://www.mural.co/careers -X-
+https://boards.greenhouse.io/mural -X-
+https://www.accenture.com/ar-es/careers/jobsearch?jk=&sb=0&vw=0&is_rj=0&pg=1&ba=technology
+https://www.globant.com/es/careers
+https://pomelo.la/latam/postulate/
+https://co.addi.com/trabaja-con-nosotros
+https://jobs.telefonica.com/search/?q=software&startrow=30
+
+https://micro-talent.net/vacantes.html
+https://www.tsoftglobal.com/trabaja-en-tsoft-catalogo-oportunidades/
+https://adviters.com/open-positions/
